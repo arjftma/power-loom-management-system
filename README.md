@@ -96,8 +96,6 @@ Make sure you have the following installed:
   <tr>
     <td align="center"><img src="screenshots/Profile.jpeg" width="180"/><br/><sub>Profile</sub></td>
     <td align="center"><img src="screenshots/Settings.jpeg" width="180"/><br/><sub>Settings</sub></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 ---
