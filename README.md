@@ -74,28 +74,32 @@ Make sure you have the following installed:
  
 ## 📸 Screenshots
  
-<p float="left">
-  <img src="screenshots/Login.jpeg" width="200" />
-  <img src="screenshots/Dashboard.jpeg" width="200" />
-  <img src="screenshots/Modules.jpeg" width="200" />
-  <img src="screenshots/Employees.jpeg" width="200" />
-</p>
-<p float="left">
-  <img src="screenshots/Fabric-Production.jpeg" width="200" />
-  <img src="screenshots/Fabric-Dispatch.jpeg" width="200" />
-  <img src="screenshots/Stock-Report.jpeg" width="200" />
-  <img src="screenshots/Suppliers.jpeg" width="200" />
-</p>
-<p float="left">
-  <img src="screenshots/Customers.jpeg" width="200" />
-  <img src="screenshots/Payroll-Generation.jpeg" width="200" />
-  <img src="screenshots/Salary-Generation.jpeg" width="200" />
-  <img src="screenshots/Payments.jpeg" width="200" />
-</p>
-<p float="left">
-  <img src="screenshots/Profile.jpeg" width="200" />
-  <img src="screenshots/Settings.jpeg" width="200" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/Login.jpeg" width="180"/><br/><sub>Login</sub></td>
+    <td align="center"><img src="screenshots/Dashboard.jpeg" width="180"/><br/><sub>Dashboard</sub></td>
+    <td align="center"><img src="screenshots/Modules.jpeg" width="180"/><br/><sub>Modules</sub></td>
+    <td align="center"><img src="screenshots/Employees.jpeg" width="180"/><br/><sub>Employees</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/Fabric-Production.jpeg" width="180"/><br/><sub>Fabric Production</sub></td>
+    <td align="center"><img src="screenshots/Fabric-Dispatch.jpeg" width="180"/><br/><sub>Fabric Dispatch</sub></td>
+    <td align="center"><img src="screenshots/Stock-Report.jpeg" width="180"/><br/><sub>Stock Report</sub></td>
+    <td align="center"><img src="screenshots/Suppliers.jpeg" width="180"/><br/><sub>Suppliers</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/Customers.jpeg" width="180"/><br/><sub>Customers</sub></td>
+    <td align="center"><img src="screenshots/Payroll-Generation.jpeg" width="180"/><br/><sub>Payroll Generation</sub></td>
+    <td align="center"><img src="screenshots/Salary-Generation.jpeg" width="180"/><br/><sub>Salary Generation</sub></td>
+    <td align="center"><img src="screenshots/Payments.jpeg" width="180"/><br/><sub>Payments</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/Profile.jpeg" width="180"/><br/><sub>Profile</sub></td>
+    <td align="center"><img src="screenshots/Settings.jpeg" width="180"/><br/><sub>Settings</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 ---
  
 ## 🚀 Getting Started
@@ -272,4 +276,3 @@ Developed as a Final Year Project at GC University Faisalabad, Department of Sof
 ## 📄 License
  
 This project was developed as a Final Year Project (FYP) at GC University Faisalabad. All rights reserved.
- 
